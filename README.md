@@ -2,8 +2,8 @@
 
 #Steps to run the app:
 
-	1. git clone git@bitbucket.org:AppPress/app-press-qa-daily-builds.git
-	2. cd app-press-qa-daily-builds
+	1. git clone git@github.com:chinmay29/Dashboard.git
+	2. cd Dashboard
 	3. npm install
 	4. npm start
 	5. open the browser and go to localhost:7000
