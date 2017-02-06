@@ -1,0 +1,36 @@
+/*#brand {
+    display: flex;
+    margin-top: 0;
+    height: 52px;
+    background-color: #333;
+    color: #fff;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.25);
+  }
+*/
+
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+.navbar-default {
+  background-color: #000;
+}
+.navbar-nav{
+  margin-left: 50px;
+  font-size: 14px;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+a.navbar-brand {
+  style: {
+    color: #000;
+  }
+}
+.navbar-brand {
+  font-size: 27px;
+  margin-left: 10px;
+  color: #000;
+}
+#appContent {
+  margin: 50px 0; // for fixed navbar
+}
